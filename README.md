@@ -1,6 +1,6 @@
 # Começando com Create React App
 
-Bootstrapped foi utilizado nesse projeto através de [Create React App](https://github.com/facebook/create-react-app).
+Bootstrap foi utilizado nesse projeto através de [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts disponíveis
 
